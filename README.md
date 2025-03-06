@@ -1,6 +1,5 @@
-# PowerBI_SuperStore_Sales_Dashboar
-The SuperStore Sales Dashboard is a Power BI-based business intelligence solution designed to analyze the sales performance of a retail store. This dashboard helps businesses track sales trends, profitability, customer segmentation, shipping efficiency, and regional performance to make data-driven decisions.
 # 📊 SuperStore Sales Dashboard
+The SuperStore Sales Dashboard is a Power BI-based business intelligence solution designed to analyze the sales performance of a retail store. This dashboard helps businesses track sales trends, profitability, customer segmentation, shipping efficiency, and regional performance to make data-driven decisions.
 
 ## 🚀 Overview
 The **SuperStore Sales Dashboard** helps businesses track and optimize sales performance through interactive visualizations. Key metrics analyzed include:
